@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8NJVjBq62ycetsTHEwznYK6LT15CACXrfmjl7WObR11Q6pZ0aIinPPu+Wxi4dyEo4TMuRM+G/PcOPsAN4RphhQ==",
+  "dgSpecHash": "6D23zKrbpig0NE9VCYiq8b9xECpD96jWwgvvhhrIUBJG7l3RbhVgOjiE69Mhfcc67XJgsS7fBNNaV5daCbsW1A==",
   "success": true,
-  "projectFilePath": "D:\\testLuisSDK\\testLuisSDK.csproj",
+  "projectFilePath": "D:\\test\\testluisapp\\CallLuisSdk30WithDotNetCore31ConsoleApp\\testLuisSDK.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.azure.cognitiveservices.language.luis.runtime\\3.0.0\\microsoft.azure.cognitiveservices.language.luis.runtime.3.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

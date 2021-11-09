@@ -5204,11 +5204,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\testLuisSDK\\testLuisSDK.csproj",
+      "projectUniqueName": "D:\\test\\testluisapp\\CallLuisSdk30WithDotNetCore31ConsoleApp\\testLuisSDK.csproj",
       "projectName": "testLuisSDK",
-      "projectPath": "D:\\testLuisSDK\\testLuisSDK.csproj",
+      "projectPath": "D:\\test\\testluisapp\\CallLuisSdk30WithDotNetCore31ConsoleApp\\testLuisSDK.csproj",
       "packagesPath": "C:\\Users\\vmadmin\\.nuget\\packages\\",
-      "outputPath": "D:\\testLuisSDK\\obj\\",
+      "outputPath": "D:\\test\\testluisapp\\CallLuisSdk30WithDotNetCore31ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5225,6 +5225,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -5236,6 +5237,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.Azure.CognitiveServices.Language.LUIS.Runtime": {
             "target": "Package",
@@ -5257,7 +5259,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

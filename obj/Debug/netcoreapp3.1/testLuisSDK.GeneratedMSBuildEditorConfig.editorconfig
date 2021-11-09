@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = testLuisSDK
+build_property.ProjectDir = D:\test\testluisapp\CallLuisSdk30WithDotNetCore31ConsoleApp\
